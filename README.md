@@ -2,7 +2,7 @@
 
 Your assignment explores the included "The Office" dataset. Your task is to create a report on the dataset using Jupyter.
 
-Please clone the repository and upload to your personal github account. 
+Please fork the repository and upload to your personal github account. 
 ### Brief
 
 Everyone loves "The Office," a popular show that aired from 2005 to 2013. While doing research, you stumbled across this dataset, with the lines of all the episodes. You decide to explore the dataset and answer some questions in a Jupyter notebook.
