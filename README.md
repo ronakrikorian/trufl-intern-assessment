@@ -2,6 +2,7 @@
 
 Your assignment explores the included "The Office" dataset. Your task is to create a report on the dataset using Jupyter.
 
+Please clone the repository and upload to your personal github account. 
 ### Brief
 
 Everyone loves "The Office," a popular show that aired from 2005 to 2013. While doing research, you stumbled across this dataset, with the lines of all the episodes. You decide to explore the dataset and answer some questions in a Jupyter notebook.
@@ -29,11 +30,12 @@ We want you to answer the following questions:
 -   Any graph or figure created is clear and easy to read
 -   All the questions are answered. Even if the answer is incorrect, the arguments and how you are presenting them is valuable
 
-### CodeSubmit
+### Submission
 
 Please organize, design, test, and document your code as if it were going into production - then push your changes to the
-master branch. After you have pushed your code, you may submit the assignment on the assignment page.
+master branch. Extra points for using OOP. 
 
+After you have pushed your code, please send over your jupyter notebook via email. 
 All the best and happy coding,
 
 The Trufl Team
